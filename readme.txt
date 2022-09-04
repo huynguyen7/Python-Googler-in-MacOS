@@ -3,3 +3,7 @@ A simple command line to run Google Search Query in SHELL, then pop up the resul
 
 ## Dependencies
 - Python 3
+
+## Setup
+- Make the script executable:
+$ chmod +x googler.py
